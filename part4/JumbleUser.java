@@ -107,16 +107,6 @@ public class JumbleUser {
 		}
 		catch(UsingIteratorPastEndException e){}
 
-
-
-
-
-
-
-
-
-
-
 		return max;		
 	}
 
